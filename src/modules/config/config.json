@@ -1,0 +1,9 @@
+{
+  "standalone": {
+    "username": { "ENV": "DATABASE_USERNAME" },
+    "password": { "ENV": "DATABASE_PASSWORD" },
+    "database": { "ENV": "DATABASE_NAME" },
+    "host": { "ENV": "DATABASE_HOST" },
+    "dialect": { "ENV": "DATABASE_DIALECT" }
+  }
+}

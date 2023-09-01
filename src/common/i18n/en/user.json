@@ -1,0 +1,6 @@
+{
+  "USER_EXISTS": "User already exists!",
+  "validation": {
+    "NOT_EMPTY": "firstname cant be empty"
+  }
+}
